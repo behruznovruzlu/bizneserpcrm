@@ -1,0 +1,41 @@
+# Build output and bundled dependencies
+/target/
+/build/
+/dist/
+/lib/
+*.class
+*.jar
+*.zip
+*.exe
+
+# Local database configuration and business data
+/config/database.properties
+/data/
+/backups/
+/exports/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+*.sql
+*.dump
+*.backup
+*.log
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+Desktop.ini

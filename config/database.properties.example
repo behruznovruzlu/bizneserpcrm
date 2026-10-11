@@ -1,0 +1,5 @@
+# Optional PostgreSQL connection. Copy to config/database.properties and edit locally.
+# Without a working PostgreSQL connection, the application uses SQLite under data/.
+db.url=jdbc:postgresql://localhost:5432/bizneserpcrm
+db.user=your_database_user
+db.password=replace_with_your_local_password
