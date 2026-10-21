@@ -4,6 +4,14 @@ A desktop ERP and CRM application developed for a company's daily business opera
 
 The application interface is in **Azerbaijani**, with financial amounts displayed in **Azerbaijani manat (AZN)**.
 
+## Demo
+
+A walkthrough using fictional customer, inventory, payment and invoice data.
+
+https://github.com/user-attachments/assets/0059221a-313a-45a5-a83d-a5fae95dfdab
+
+
+
 ## Overview
 
 The system supports the operational flow of a business that manages raw materials, manufactures products and delivers them to customers. It connects product recipes and stock movements with purchases, deliveries, payments and monthly reports.
